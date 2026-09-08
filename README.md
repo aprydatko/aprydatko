@@ -12,30 +12,5 @@ I’m a Frontend / Full-stack JavaScript Developer from Ukraine, focused on buil
 
 ## 🛠️ Technologies
 
-`TypeScript` · `JavaScript` · `React` · `Next.js` · `Vue 3` · `Svelte` · `Node.js` · `PHP` · `Java` · `PostgreSQL` · `Prisma` · `Redis` · `Tailwind CSS`
+`TypeScript` · `JavaScript` · `React` · `Next.js` · `Vue 3`  · `Node.js` · `Laravel` · `PostgreSQL` · `Prisma` · `Redis` · `Tailwind CSS`
 
-## 📌 Featured projects
-
-- [Personal site](https://github.com/aprydatko/Personal-site) — my personal portfolio and website
-- [AI Logistics](https://github.com/aprydatko/ai-logistics) — logistics project built with TypeScript
-- [OpenAI Lab](https://github.com/aprydatko/openai-lab) — examples for learning OpenAI development
-- [LocalMind Lab](https://github.com/aprydatko/localmind-lab) — JavaScript experiments and prototypes
-- [Modern React Todo](https://github.com/aprydatko/modern-react-todo) — modern Todo application with React and TypeScript
-- [Blog Starter](https://github.com/aprydatko/blog-starter) — Next.js, Tailwind, Prisma, PostgreSQL, and monorepo starter
-
-## 📚 Currently learning and exploring
-
-- JavaScript and TypeScript design patterns
-- Data structures and algorithms
-- AI application development
-- Scalable full-stack architecture
-
-## 📊 GitHub stats
-
-![Artur's GitHub stats](https://github-readme-stats.vercel.app/api?username=aprydatko&show_icons=true&hide_border=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aprydatko&layout=compact&hide_border=true&theme=transparent)
-
-## 🤝 Connect with me
-
-[GitHub](https://github.com/aprydatko) · [LinkedIn](https://www.linkedin.com/in/aprydatko) · [Website](https://artyr-prydatko.vercel.app)
